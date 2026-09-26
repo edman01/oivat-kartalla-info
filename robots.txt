@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://edman01.github.io/oivat-kartalla-info/sitemap.xml
